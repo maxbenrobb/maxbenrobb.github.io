@@ -12,6 +12,10 @@ body {
   padding: 1.25rem 2.5rem;
 }
 
+.header {
+  color: #9193D5;
+}
+
 .content-section {
   padding-top: 7.5rem;
   padding-bottom: 7.5rem;
